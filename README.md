@@ -2,7 +2,7 @@
 # MCP-StdIO 🚀
 
 ## Overview 📝
-This is a Kotlin-based MCP (Model Context Protocol) server using JSON-RPC 2.0 over stdin/stdout. It exposes two tool:
+This is a Vanilla Kotlin-based MCP (Model Context Protocol) server using JSON-RPC 2.0 over stdin/stdout. It exposes two tool:
 
 - 🔍 **getMenu**: Finds drinks listend on the menu allowing filtering by cost, ingredients, preparation and availability or neither of them.
 - 🎯 **getBeverage**: Displays full information about the desired beverage.
